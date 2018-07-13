@@ -1,5 +1,9 @@
 # catle
 
+head command for csv
+
+![sample](https://github.com/pshiko/catle/blob/for_readme/tes2.gif)
+
 Install
 ```bash
 go get github.com/pshiko/catle
